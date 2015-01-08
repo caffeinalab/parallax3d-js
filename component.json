@@ -1,0 +1,16 @@
+{
+  "name": "parallax3d",
+  "repo": "CaffeinaLab/Parallax3D.js",
+  "description": "Parallax in web pages, simply",
+  "version": "1.0.0",
+  "keywords": ["parallax","jquery"],
+  "dependencies": {
+    "jquery": ">=1.2"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "parallax3d.js",
+  "scripts": [
+    "parallax3d.js"
+  ]
+}
